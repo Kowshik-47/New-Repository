@@ -7,5 +7,5 @@ ppppppppppppooo.
 this line is edited from remote repo.
 bbbbbbbbbbbbbbbbbbb.
 aaaaaaaaaaaaaaffffffffffff.
-xxxxxxxxxxxxxxxxxyyyyyyyyyyyyyyyy.
+test by remote
 ppppppppppppooo.
